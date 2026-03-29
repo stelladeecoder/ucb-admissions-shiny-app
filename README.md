@@ -23,3 +23,6 @@ The dataset used in this project is the **UCBAdmissions** dataset from the R dat
 
 1. Open `app.R` in RStudio  
 2. Click **Run App**
+
+## 🚀 Live App
+👉 https://stelladeecoder.shinyapps.io/ucb_admissions_app/

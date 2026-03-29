@@ -1,6 +1,6 @@
 # UCB Admissions Shiny App
 
-This project is an interactive Shiny application built in R to explore admission data from UC Berkeley.
+An interactive Shiny app that explores UC Berkeley admission data by department and gender using real-time filtering.
 
 ## Features
 
